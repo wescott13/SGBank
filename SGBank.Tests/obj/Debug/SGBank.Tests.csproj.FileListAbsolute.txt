@@ -1,0 +1,17 @@
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\nunit.framework.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\nunit.framework.pdb
+D:\Repos\Projects\SGBank\SGBank.Tests\bin\Debug\nunit.framework.xml
+D:\Repos\Projects\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+D:\Repos\Projects\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+D:\Repos\Projects\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+D:\Repos\Projects\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+D:\Repos\Projects\SGBank\SGBank.Tests\obj\Debug\SGBank.Tests.pdb
